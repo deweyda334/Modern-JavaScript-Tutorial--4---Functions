@@ -8,7 +8,7 @@
 
 
 
-const speak = (name,time='night') => `Good ${time}, ${name}!`;
+const speak = (name, time='night') => `Good ${time}, ${name}!`;
 console.log(speak('Alexander'));
 
 // function greet(){
